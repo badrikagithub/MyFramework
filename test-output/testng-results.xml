@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-10T00:26:37 IST" name="Default suite" finished-at="2023-10-10T00:26:37 IST" duration-ms="132">
+    <groups>
+    </groups>
+    <test started-at="2023-10-10T00:26:37 IST" name="Default test" finished-at="2023-10-10T00:26:37 IST" duration-ms="132">
+      <class name="practice2_chaitra.DataProviderPractice">
+        <test-method signature="AddproductToCart(java.lang.String,int,int)[pri:0, instance:practice2_chaitra.DataProviderPractice@1725dc0f]" started-at="2023-10-10T00:26:37 IST" name="AddproductToCart" data-provider="getData" finished-at="2023-10-10T00:26:37 IST" duration-ms="30" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MI]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[13000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddproductToCart -->
+        <test-method signature="AddproductToCart(java.lang.String,int,int)[pri:0, instance:practice2_chaitra.DataProviderPractice@1725dc0f]" started-at="2023-10-10T00:26:37 IST" name="AddproductToCart" data-provider="getData" finished-at="2023-10-10T00:26:37 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Moto]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[15000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddproductToCart -->
+      </class> <!-- practice2_chaitra.DataProviderPractice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

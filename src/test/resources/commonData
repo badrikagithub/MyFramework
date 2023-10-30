@@ -1,0 +1,6 @@
+#common Data
+#Mon Jul 03 17:49:41 IST 2023
+browser=chrome
+password=manager
+url=https\://demo.actitime.com/login.do
+username=admin
